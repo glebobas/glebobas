@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
 <h3 align="center">Frontend developer from Russia</h3>
-<div><img src="https://i.gifer.com/nRm.gif" alt="" /></ div>
+<div><img src="https://i.gifer.com/5EeH.gif" alt="" /></ div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
