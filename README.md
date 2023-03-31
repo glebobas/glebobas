@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
 <h3 align="center">Frontend developer from Russia</h3>
-<div><img src="https://i.gifer.com/5EeH.gif" alt="" /></ div>
+
 <iframe src="https://gifer.com/embed/5EeH" width=480 height=688.773 frameBorder="0" allowFullScreen></iframe>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
