@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
 <h3 align="center">Frontend developer from Russia</h3>
-<img href="https://usagif.com/wp-content/uploads/gify/dancing-cat-33-title.gif" />
+<div><img href="https://usagif.com/wp-content/uploads/gify/dancing-cat-33-title.gif" /></ div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
