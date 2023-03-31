@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
 <h3 align="center">Frontend developer from Russia</h3>
-<div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYEqzr4wtSF9okUJo18THoN40hGBtGX5Ms3w&usqp=CAU" alt="" /></ div>
+<div><img src="https://png.pngtree.com/png-vector/20201229/ourmid/pngtree-an-orange-cat-with-squinting-eyes-png-image_2664925.jpg" alt="" /></ div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
