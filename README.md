@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gleb</h1>
-<h3 align="center">Frontend developer from Russia</h3>
+<h3 align="center">I am a Frontend Developer with over 2 years of experience. I have experience in implementing projects of various levels. I can find solutions for different tasks, work in a team and optimize various processes to find the best solution. I burn with the desire to develop, constantly learn something new and grow in a cool team</h3>
 <div style="width="100px" heigth="100px" alig><img align="right" src="./gifka2.gif" alt="" /></ div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
